@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/schemas/main/schemas/mcp_config.schema.json",
+  "description": "Minimal MCP config - inherits from ~/.claude/.mcp.json",
+  "version": "2.0",
+  "mcpServers": {}
+}

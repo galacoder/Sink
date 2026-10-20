@@ -26,3 +26,5 @@ logs
 site
 cache
 public/world.json
+.rtk-tok-enabled
+graphify-out/
